@@ -2,7 +2,7 @@
 Creating Jenkins pipeline and configuration.
 The purpose of this guide is to write installation process step by step on ubuntu 22.04 LTS
 
-# Setup process
+# Setup process#
 #!/bin/bash
 sudo apt update
 sudo apt install openjdk-8-jdk -y
